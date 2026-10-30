@@ -53,7 +53,7 @@ Meus projetos têm foco em resolver problemas e desenvolver sistemas funcionais 
 
 ## Vamos nos conectar
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/erick-rafaelsilva)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafagsilva2025@gmail.com)
 
 ---
