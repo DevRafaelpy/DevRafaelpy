@@ -26,6 +26,8 @@ Meus projetos têm foco em resolver problemas e desenvolver sistemas funcionais 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/inttter/md-badges)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/inttter/md-badges)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/inttter/md-badges)
+![Power BI](https://img.shields.io/badge/power_bi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### Backend e APIs
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://github.com/inttter/md-badges)
